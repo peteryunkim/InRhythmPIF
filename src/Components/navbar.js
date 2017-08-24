@@ -4,7 +4,7 @@ const Navbar = () => {
 	return (
 		<div className='navbar'>
 		<ul className='list'>
-		<li className='list-item'><img className='logo' alt='logo' src='https://www.inrhythm.com/wp-content/uploads/2017/06/logo.png'/></li>
+		<li className='list-item'><a href='https://www.inrhythm.com'><img className='logo' alt='logo' src='https://www.inrhythm.com/wp-content/uploads/2017/06/logo.png'/></a></li>
 		<li className='list-item'>CLIENTS </li> 
 		<li className='list-item'>TESTIMONIALS </li>
 		<li className='list-item'>SERVICES </li>

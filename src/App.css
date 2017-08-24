@@ -1,5 +1,5 @@
 .navbar{
-  border-style: solid;
+  /*border-style: solid;*/
   padding-top: 10px;
 }
 .logo{
@@ -34,4 +34,5 @@ ul li{
   display: inline;
   font-size: 14px;
   font-weight: bold;
+  cursor: pointer;
 }
