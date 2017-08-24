@@ -1,14 +1,35 @@
 .navbar{
   border-style: solid;
-  padding-top: 20px;
+  padding-top: 10px;
 }
-.navbar .logo{
+.logo{
   padding-left: 20px;
   display: inline;
+  margin-right: 75px;
 }
 .pictureInfo{
   border-style: solid;
 }
+.list-item{
+  width:83%;
+  margin-right: 10px;
+}
+.list-item #active-item{
+  color: #f15d24;
+}
+button{
+  background-color: #f15d24;
+  border-color: #f15d24;
+  color: white;
+  padding: 4px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 3px;
+  font-weight: bold;
+  font-size: 12px;
+}
+
 ul li{
   display: inline;
   font-size: 14px;
