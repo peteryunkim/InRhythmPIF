@@ -7,9 +7,6 @@
   display: inline;
   margin-right: 75px;
 }
-.pictureInfo{
-  border-style: solid;
-}
 .list-item{
   width:83%;
   margin-right: 10px;
@@ -35,4 +32,19 @@ ul li{
   font-size: 14px;
   font-weight: bold;
   cursor: pointer;
+}
+.pictureInfo{
+  background-image: url("https://www.inrhythm.com/wp-content/themes/inrhythm/images/inner-banner-small.jpg");
+  height: 200px;
+}
+.pictureInfo #title{
+  padding-left: 40px;
+  padding-top: 20px;
+  color: white;
+  font-weight: normal;
+  font-size: 40pt;
+}
+.pictureInfo #title-subtext{
+  padding-left: 40px;
+  color: white;
 }
