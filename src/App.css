@@ -1,0 +1,16 @@
+.navbar{
+  border-style: solid;
+  padding-top: 20px;
+}
+.navbar .logo{
+  padding-left: 20px;
+  display: inline;
+}
+.pictureInfo{
+  border-style: solid;
+}
+ul li{
+  display: inline;
+  font-size: 14px;
+  font-weight: bold;
+}
