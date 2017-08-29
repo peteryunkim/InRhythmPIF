@@ -86,7 +86,18 @@ a:hover{
 .footer-icons{
   border:solid;
   border-width: 1px;
-  padding: 5px;
+  padding-top: 10px;
+  padding-bottom: 8px;
+  padding-right: 5px;
   margin-right: 15px;
+  text-align: center;
+}
+.footer-ul{
+  -webkit-padding-start: 0px;
+}
+.footer-col2{
+  text-align: center;
+}
+.footer-col3{
   text-align: center;
 }
