@@ -7,6 +7,10 @@
   display: inline;
   margin-right: 75px;
 }
+.footer-logo{
+  padding-left: 40px;
+  padding-top: 20px;
+}
 .list-item{
   width:83%;
   margin-right: 10px;
@@ -34,7 +38,7 @@ ul li{
   cursor: pointer;
 }
 .pictureInfo{
-  background-image: url("https://www.inrhythm.com/wp-content/themes/inrhythm/images/inner-banner-small.jpg");
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("https://www.inrhythm.com/wp-content/themes/inrhythm/images/inner-banner-small.jpg");
   height: 200px;
 }
 .pictureInfo #title{
@@ -49,12 +53,27 @@ ul li{
   color: white;
 }
 #footer{
-  border: solid;
-  background-color: gray;
-  height: 100px;
+  background-color: #5c5c5c;
+  height: 250px;
   column-count: 4;
 }
 .footer-column{
-  text-align: center;
-  width: 33%;
+  padding-top: 10px;
+  height: 200px;
+  color: white;
+}
+#footer-col1{
+  color: white;
+  padding-left: 40px;
+  font-weight: normal;
+}
+.footer-column-title{
+  color: #f15d24;
+}
+a:hover{
+  color: #f15d24;
+}
+.links{
+  color: white;
+  text-decoration: none;
 }
