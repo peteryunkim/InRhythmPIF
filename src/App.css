@@ -48,3 +48,13 @@ ul li{
   padding-left: 40px;
   color: white;
 }
+#footer{
+  border: solid;
+  background-color: gray;
+  height: 100px;
+  column-count: 4;
+}
+.footer-column{
+  text-align: center;
+  width: 33%;
+}
