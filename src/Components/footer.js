@@ -7,8 +7,8 @@ const Footer = () => {
 				<h4 id='footer-col1'>InRhythm is a high-growth, New York based, technology consulting firm focused on high velocity software development through lean UX, software engineering and agile delivery services.</h4>
 			</div>
 			<div className='footer-column footer-col2'>
-				<h4 className='footer-column-title'>Our Offices</h4>
-				<h4>140 Broadway, Suite 2270 New York, NY 10005</h4>
+				<h4 className='footer-column-title'>Peter's Office</h4>
+				<h4>854 8th Ave Apt 5B, New York, NY 10019</h4>
 			</div>
 			<div className='footer-column footer-col3'>
 			<h4 className='footer-column-title'>Need help?</h4>
