@@ -19,10 +19,10 @@ const Footer = () => {
 			<div className='footer-column'>
 				<h4 className='footer-column-title'>Get in touch</h4>
 				<ul>
-					<li>Github</li>
-					<li>LinkedIn</li>
-					<li>Portfolio</li>
-					<li>Medium</li>
+					<li className='footer-icons'><a href='https://www.github.com/peteryunkim' className="links fa fa-github"> </a></li>
+					<li className='footer-icons'><a href='https://www.linkedin.com/in/peteryunkim' className="links fa fa-linkedin"> </a></li>
+					<li className='footer-icons'><a href='https://www.github.peteryunkim.io' className="links fa fa-odnoklassniki"> </a></li>
+					<li className='footer-icons'><a className="links fa fa-medium"> </a></li>
 				</ul>
 			</div>
 		</div>

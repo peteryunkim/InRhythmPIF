@@ -77,3 +77,16 @@ a:hover{
   color: white;
   text-decoration: none;
 }
+.fa{
+  font-size: 20px;
+  margin-left: 5px;
+  padding: 4px;
+  padding-top: 4px;
+}
+.footer-icons{
+  border:solid;
+  border-width: 1px;
+  padding: 5px;
+  margin-right: 15px;
+  text-align: center;
+}
