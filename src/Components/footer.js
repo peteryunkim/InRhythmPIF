@@ -7,8 +7,8 @@ const Footer = () => {
 				<h4 id='footer-col1'>InRhythm is a high-growth, New York based, technology consulting firm focused on high velocity software development through lean UX, software engineering and agile delivery services.</h4>
 			</div>
 			<div className='footer-column footer-col2'>
-				<h4 className='footer-column-title'>Peter's Office</h4>
-				<h4>854 8th Ave Apt 5B, New York, NY 10019</h4>
+				<h4 className='footer-column-title'>Our Office</h4>
+				<h4>140 Broadway, Suite 2270 New York, NY 10005</h4>
 			</div>
 			<div className='footer-column footer-col3'>
 			<h4 className='footer-column-title'>Need help?</h4>
@@ -17,7 +17,7 @@ const Footer = () => {
 				<h4><a href='https://www.inrhythm.com/jobs-career/' className='links'>Careers</a></h4>
 			</div>
 			<div className='footer-column'>
-				<h4 className='footer-column-title'>Get in touch</h4>
+				<h4 className='footer-column-title'>Get in touch with Peter</h4>
 				<ul className='footer-ul'>
 					<li className='footer-icons'><a href='https://www.github.com/peteryunkim' className="links fa fa-github"> </a></li>
 					<li className='footer-icons'><a href='https://www.linkedin.com/in/peteryunkim' className="links fa fa-linkedin"> </a></li>

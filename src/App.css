@@ -101,3 +101,22 @@ a:hover{
 .footer-col3{
   text-align: center;
 }
+#workflow-btn{
+  border-style: solid;
+  border-width: 1px;
+  border-color: #f15d24;
+  background-color: #f15d24;
+  color: white;
+  border-radius: 50%;
+  text-align: center;
+  height: 60px;
+  width: 60px;
+  vertical-align: middle;
+  margin: auto;
+}
+#workflow-btn-text{
+  padding-top: 20px;
+}
+.workflow-arrows{
+  text-align: center;
+}
