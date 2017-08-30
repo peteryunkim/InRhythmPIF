@@ -12,19 +12,31 @@ return(
 			<div className="fa fa-arrow-down"></div>
 			<div className="fa fa-arrow-down"></div>
 		</div>
-		<div>Phase 1</div>
+		<h3>Phase 1</h3>
+		<ul className='workflow-list'>
+			<li className='workflow-list-item3'>
+				<img className='workflow-icon'src={require('../images/person-icon.png')}/><span className='caption'>caption</span>
+			</li>
+			<li className='workflow-list-item3'><img className='workflow-icon'src={require('../images/no-pain-no-gain.jpg')}></img></li>
+			<li className='workflow-list-item3'><img className='workflow-icon'src={require('../images/light-bulb.png')}></img></li>
+		</ul>
 		<div className='workflow-arrows'>
 			<div className="fa fa-arrow-down"></div>
 			<div className="fa fa-arrow-down"></div>
 			<div className="fa fa-arrow-down"></div>
 		</div>
-		<div>Phase 2</div>
+		<h3>Phase 2</h3>
+		<ul className='workflow-list'>
+			<li className='workflow-list-item3'>1</li>
+			<li className='workflow-list-item3'>2</li>
+			<li className='workflow-list-item3'>3</li>
+		</ul>
 		<div className='workflow-arrows'>
 			<div className="fa fa-arrow-down"></div>
 			<div className="fa fa-arrow-down"></div>
 			<div className="fa fa-arrow-down"></div>
 		</div>
-		<div>Phase 3</div>
+		<h3>Phase 3</h3>
 		<div id='workflow-btn'><div id='workflow-btn-text'>Build</div></div>
 	</div>
 	)

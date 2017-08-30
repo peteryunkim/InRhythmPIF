@@ -113,10 +113,28 @@ a:hover{
   width: 60px;
   vertical-align: middle;
   margin: auto;
+  margin-bottom: 20px;
 }
 #workflow-btn-text{
   padding-top: 20px;
 }
-.workflow-arrows{
+#workflow{
   text-align: center;
 }
+.workflow-list{
+  -webkit-padding-start: 0px;
+  text-align: center;
+}
+.workflow-list-item3{
+  margin-right: 150px;
+  margin-left: 150px;
+}
+.workflow-icon{
+  width: 100px;
+  height: auto;
+  color: #f15d24;
+}
+.caption{
+  
+}
+
