@@ -114,6 +114,7 @@ a:hover{
   vertical-align: middle;
   margin: auto;
   margin-bottom: 20px;
+  margin-top: 20px;
 }
 #workflow-btn-text{
   padding-top: 20px;
@@ -121,20 +122,38 @@ a:hover{
 #workflow{
   text-align: center;
 }
+#workflow-desc{
+  margin-top: 40px;
+}
 .workflow-list{
   -webkit-padding-start: 0px;
-  text-align: center;
 }
 .workflow-list-item3{
-  margin-right: 150px;
-  margin-left: 150px;
+  margin-right: 280px;
+  width: 100px;
+  padding: 0;
 }
 .workflow-icon{
+  position:relative;  
   width: 100px;
   height: auto;
-  color: #f15d24;
-}
-.caption{
   
 }
-
+.workflow-captions{
+  display: inline-flex;
+  margin-right: 125px;
+  margin-left: 160px;
+}
+#phase-title{
+  color: #f15d24;
+}
+.workflow-captions2{
+  display: inline-flex;
+  margin-right: 90px;
+  margin-left: 130px;
+}
+#workflow li:hover{
+  color: #f15d24;
+}
+#workflow img:hover{
+}
