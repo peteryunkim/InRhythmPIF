@@ -15,6 +15,10 @@
   width:83%;
   margin-right: 10px;
 }
+.list-item a{
+  color: black;
+  text-decoration: none;
+}
 .list-item #active-item{
   color: #f15d24;
 }
@@ -165,13 +169,13 @@ a:hover{
 #workflow img:hover{
 }
 .workflow-list-item5{
-  margin-right: 117px;
+  margin-right: 107px;
   margin-left: -12px;
   width: 100px;
   padding: 0;
 }
 .workflow-captions3{
   display: inline-flex;
-  margin-right: 94px;
-  margin-left: 0px;
+  margin-right: 61px;
+  margin-left: 10px;
 }
